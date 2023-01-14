@@ -1,0 +1,17 @@
+{
+    "folders": [
+      {
+        "path": "."
+      },
+      {
+        "path": "CalculatorLib"
+      },
+      {
+        "path": "CalculatorLibTests"
+      },
+      
+    ],
+    "settings": {
+      "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
+  }
